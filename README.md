@@ -1,6 +1,6 @@
 # Práctica Python 1
 
-**Autor:** [EmiliOrtega]
+**Autor:** Emilio Ortega
 
 ## Descripción
 Este programa permite ingresar nombres de estudiantes y sus calificaciones, calcula los promedios y guarda los resultados.
